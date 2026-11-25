@@ -1,0 +1,8 @@
+{
+  "name": "Riyas Mon & Muhsina — Wedding Invitation",
+  "description": "Digital wedding invitation for Riyas Mon & Muhsina on 27 June 2027 at Emerald Palace, Kurukol Kunnu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
